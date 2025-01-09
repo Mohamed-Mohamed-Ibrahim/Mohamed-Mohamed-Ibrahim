@@ -2,21 +2,21 @@
 <p>A passionate Software and ML Engineer from Alexandria, Egypt. </p>
 
 # Projects 🚀
-1. Web Development
-    - [PathPort](https://github.com/mohassan5286/Software-Engineering)
-    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
-    - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
-    - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
-    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-2. Machine Learning
-    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
-    - [Suduko-Solver-CSP]()
-    - [Connect-4-MiniMax]()
-    - [8-Puzzle-A-Star]()
-3. Software Development
-    - Root finder
-    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
 
+1. Web Development
+   - [PathPort](https://github.com/mohassan5286/Software-Engineering)
+   - [Signal Flow Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
+   - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
+   - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
+   - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
+2. Machine Learning
+   - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
+   - [Suduko-Solver-CSP]()
+   - [Connect-4-MiniMax]()
+   - [8-Puzzle-A-Star]()
+3. Software Development
+   - Root finder
+   - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
 
 # Languages and Tools I Use 🛠️
 
@@ -30,7 +30,6 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 
-
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
@@ -43,7 +42,6 @@
 
 <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
@@ -60,7 +58,12 @@
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 
+<a target="_blank" href="https://code.visualstudio.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="42" height="42" />
+</a>
+
 # Where to find me ⚡️
+
 <p align="center">
 <a href="https://linkedin.com/in/mohamed-mohamed-ibrahim-1aa211251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Mohamed-Mohamed-Ibrahim/" target="blank">
@@ -69,9 +72,16 @@
 <a href="https://www.kaggle.com/mohamedmoibrahim" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
 </a>
+<div align="center">
+    <a href="https://mohamed-mohamed-ibrahim.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge" alt="Website" />
+    </a>
+    <a href="https://pink-tasha-24.tiiny.site/" target="_blank">
+        <img src="https://img.shields.io/badge/CV-Open-brightgreen?style=for-the-badge" alt="CV" />
+    </a>
+</div>
+
 </p>
-
-
 
 <details>
     <summary>Github Status</summary>
