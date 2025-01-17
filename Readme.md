@@ -10,7 +10,7 @@
    - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
    - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-2. Machine Learning
+2. AI & Data Science
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Suduko-Solver-CSP]()
    - [Connect-4-MiniMax]()
