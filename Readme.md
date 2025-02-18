@@ -12,9 +12,11 @@
    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
 2. Machine Learning
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
-   - [Suduko-Solver-CSP]()
-   - [Connect-4-MiniMax]()
-   - [8-Puzzle-A-Star]()
+   - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
+   - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
+   - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
+   - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
+   - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
 3. Software Development
    - Root finder
    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
