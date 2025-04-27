@@ -4,13 +4,14 @@
 # Projects 🚀
 
 1. Web Development
+   - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
    - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
    - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
    - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
    - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-2. AI & Data Science
+3. AI & Data Science
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
