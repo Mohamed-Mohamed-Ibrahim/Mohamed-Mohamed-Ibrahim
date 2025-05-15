@@ -12,6 +12,7 @@
    - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
 3. AI & Data Science
+   - [Speech-Emotion-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Speech-Emotion-Recognition)
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
@@ -19,7 +20,7 @@
    - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
    - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
    - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
-4. Software Development
+5. Software Development
    - Root finder
    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
 
