@@ -13,6 +13,7 @@
    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
 3. AI & Data Science
    - [Speech-Emotion-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Speech-Emotion-Recognition)
+   - [Face-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Face-Recognition)
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
