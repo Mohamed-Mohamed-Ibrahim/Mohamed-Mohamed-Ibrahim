@@ -26,7 +26,7 @@
 3. Data Engineering
    - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
 4. Software Development
-   - Root finder
+   - [Root finder](https://github.com/Mohamed-Mohamed-Ibrahim/Root-Finder)
    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
 5. Networks
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
