@@ -1,6 +1,10 @@
 <h1>Hi 👋, I'm Mohamed Mohamed Ibrahim</h1>
 <p>A passionate Software and ML Engineer from Alexandria, Egypt. </p>
 
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
 # Projects 🚀
 
 1. Web Development
