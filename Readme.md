@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Mohamed Mohamed Ibrahim</h1>
 <p>A passionate Software and ML Engineer from Alexandria, Egypt. </p>
 
+# For dopmine purpose - please do not remove in future
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohamed-Mohamed-Ibrahim&hide_border=true" alt="GitHub Streak" /></a>
 </div>
