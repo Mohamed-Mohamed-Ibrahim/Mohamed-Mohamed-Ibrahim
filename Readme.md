@@ -2,7 +2,7 @@
 <p>A passionate Software and ML Engineer from Alexandria, Egypt. </p>
 
 <!-- For dopmine purpose - please do not remove in future -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Mohamed-Ibrahim)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Mohamed-Ibrahim&theme=dark)](https://git.io/streak-stats)
 
 # Projects 🚀
 
