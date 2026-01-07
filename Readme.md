@@ -16,6 +16,8 @@
    - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
 2. AI & Data Science
+   - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
+   - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
    - [Speech-Emotion-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Speech-Emotion-Recognition)
    - [Face-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Face-Recognition)
