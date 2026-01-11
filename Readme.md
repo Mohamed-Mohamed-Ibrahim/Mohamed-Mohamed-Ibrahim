@@ -2,9 +2,8 @@
 <p>A passionate Software and ML Engineer from Alexandria, Egypt. </p>
 
 <!-- For dopmine purpose - please do not remove in future -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Mohamed-Ibrahim&theme=dark)](https://git.io/streak-stats)
-
-# Projects 🚀
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Mohamed-Ibrahim)](https://git.io/streak-stats) -->
+![GitHubCard](https://githubcard.com/Mohamed-Mohamed-Ibrahim.svg?d=yiwCzU4R)
 
 1. Web Development
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
