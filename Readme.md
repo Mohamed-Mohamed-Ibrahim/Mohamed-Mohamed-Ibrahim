@@ -8,6 +8,16 @@
 # Projects 🚀
 
 <details>
+  <summary>Top 5 Favorite Projects 🥰</summary>
+
+   - NLP - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
+   - AI - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
+   - Data Engineering - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
+   - Web Development - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
+   - Software Development - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
+</details>
+
+<details>
   <summary>Web Development</summary>
 
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
@@ -23,8 +33,6 @@
 <details>
   <summary>AI & Data Science</summary>
 
-   - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
-   - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
    - [Speech-Emotion-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Speech-Emotion-Recognition)
    - [Face-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Face-Recognition)
@@ -35,6 +43,19 @@
    - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
    - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
    - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
+</details>
+
+<details>
+  <summary>Computer Vision</summary>
+
+   - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
+</details>
+
+<details>
+  <summary>NLP</summary>
+
+   - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
+   - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
 </details>
 
 <details>
