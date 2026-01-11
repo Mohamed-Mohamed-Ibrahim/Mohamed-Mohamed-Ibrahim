@@ -5,7 +5,11 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Mohamed-Ibrahim)](https://git.io/streak-stats) -->
 ![GitHubCard](https://githubcard.com/Mohamed-Mohamed-Ibrahim.svg?d=yiwCzU4R)
 
-1. Web Development
+# Projects 🚀
+
+<details>
+  <summary>Web Development</summary>
+
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
    - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
    - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
@@ -14,7 +18,11 @@
    - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
    - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
    - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-2. AI & Data Science
+</details>
+
+<details>
+  <summary>AI & Data Science</summary>
+
    - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
    - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
@@ -27,13 +35,26 @@
    - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
    - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
    - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
-3. Data Engineering
+</details>
+
+<details>
+  <summary>Data Engineering</summary>
+
    - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
-4. Software Development
+</details>
+
+<details>
+  <summary>Software Development</summary>
+
    - [Root finder](https://github.com/Mohamed-Mohamed-Ibrahim/Root-Finder)
    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
-5. Networks
+</details>
+
+<details>
+  <summary>Networks</summary>
+
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
+</details>
 
 # Languages and Tools I Use 🛠️
 
