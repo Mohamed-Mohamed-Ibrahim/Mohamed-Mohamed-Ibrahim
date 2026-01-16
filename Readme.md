@@ -15,7 +15,7 @@
    - Data Engineering - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
    - Web Development - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
    - Software Development - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
-</details>
+</details> <br>
 
 - Web Development
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
@@ -23,12 +23,13 @@
    - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
    - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
-    <details><summary>Others</summary>
-  
-      - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
-      - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
-      - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-    </details>  
+
+<details><summary>Others</summary>
+
+  - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
+  - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
+  - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
+</details>  
 
 - AI & Data Science
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
@@ -37,13 +38,14 @@
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
-    <details><summary>Others</summary>
-
-      - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
-      - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
-      - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
-      - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
-      </details>  
+<details>
+  <summary>Others</summary>
+  
+  - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
+  - [Sudoku-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
+  - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
+  - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
+</details>  
 
 - Computer Vision
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
