@@ -17,63 +17,51 @@
    - Software Development - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
 </details>
 
-<details>
-  <summary>Web Development</summary>
-
+- Web Development
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
    - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
    - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
    - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
-   - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
-   - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
-   - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-</details>
+   - <details><summary>Others</summary>
+  
+      - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
+      - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
+      - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
+    </details>  
 
-<details>
-  <summary>AI & Data Science</summary>
-
+- AI & Data Science
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
    - [Speech-Emotion-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Speech-Emotion-Recognition)
    - [Face-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Face-Recognition)
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
-   - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
-   - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
-   - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
-   - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
-</details>
+   - <details><summary>Others</summary>
+
+     - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
+     - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
+     - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
+     - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
+    </details>  
 
 - Computer Vision
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
    - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
 
-<details>
-  <summary>NLP</summary>
-
+- NLP
    - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
    - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
-</details>
 
-<details>
-  <summary>Data Engineering</summary>
-
+- Data Engineering
    - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
-</details>
 
-<details>
-  <summary>Software Development</summary>
-
+- Software Development
    - [Root finder](https://github.com/Mohamed-Mohamed-Ibrahim/Root-Finder)
    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
-</details>
 
-<details>
-  <summary>Networks</summary>
-
+- Networks
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
-</details>
 
 # Languages and Tools I Use 🛠️
 
