@@ -23,7 +23,7 @@
    - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
    - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
-   - <details><summary>Others</summary>
+    <details><summary>Others</summary>
   
       - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
       - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
@@ -37,13 +37,13 @@
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
-   - <details><summary>Others</summary>
+    <details><summary>Others</summary>
 
-     - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
-     - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
-     - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
-     - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
-    </details>  
+      - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
+      - [Suduko-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
+      - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
+      - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
+      </details>  
 
 - Computer Vision
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
