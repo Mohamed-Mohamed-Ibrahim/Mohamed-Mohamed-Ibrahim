@@ -23,13 +23,14 @@
    - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
    - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
-
+<blockquote> 
 <details><summary>Others</summary>
 
   - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
   - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
   - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
 </details>  
+</blockquote>
 
 - AI & Data Science
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
@@ -38,6 +39,8 @@
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
+
+<blockquote>
 <details>
   <summary>Others</summary>
   
@@ -46,6 +49,7 @@
   - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
   - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
 </details>  
+</blockquote>
 
 - Computer Vision
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
