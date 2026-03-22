@@ -135,6 +135,9 @@
     <a href="https://pink-tasha-24.tiiny.site/" target="_blank">
         <img src="https://img.shields.io/badge/CV-Open-brightgreen?style=for-the-badge" alt="CV" />
     </a>
+  <a href="https://huggingface.co/Mohamed-Mohamed-Ibrahim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hugging-face.svg" alt="huggingface" height="30" width="40" />
+  </a>
 </div>
 
 </p>
