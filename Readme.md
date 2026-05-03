@@ -135,7 +135,7 @@
     <a href="https://mohamed-mohamed-ibrahim.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge" alt="Website" />
     </a>
-    <a href="https://pink-tasha-24.tiiny.site/" target="_blank">
+    <a href="https://drive.google.com/drive/folders/1-3zrvig0NQ1EJdxk4Lc0axzuKfcSlluW?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/CV-Open-brightgreen?style=for-the-badge" alt="CV" />
     </a>
 
