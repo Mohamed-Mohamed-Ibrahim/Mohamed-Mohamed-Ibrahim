@@ -7,6 +7,10 @@
 
 # Projects 🚀
 
+- Recent Projects
+   - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
+
+
 <details>
   <summary>Top 5 Favorite Projects 🥰</summary>
 
@@ -17,20 +21,15 @@
    - Software Development - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
 </details> <br>
 
+<details>
+   <summary>Categorized by Fields</summary>
+
 - Web Development
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
    - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
    - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
    - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
-<blockquote> 
-<details><summary>Others</summary>
-
-  - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
-  - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
-  - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-</details>  
-</blockquote>
 
 - AI & Data Science
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
@@ -39,17 +38,12 @@
    - [Heart-Failure-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Heart-Failure-Classifier)
    - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
    - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
+   - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
+   - [Sudoku-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
+   - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
+   - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
 
-<blockquote>
-<details>
-  <summary>Others</summary>
   
-  - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
-  - [Sudoku-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
-  - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
-  - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
-</details>  
-</blockquote>
 
 - Computer Vision
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
@@ -68,6 +62,8 @@
 
 - Networks
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
+
+</details>  
 
 # Languages and Tools I Use 🛠️
 
@@ -129,7 +125,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
 </a>
 <a href="https://huggingface.co/Mohamed-Mohamed-Ibrahim" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hugging-face.svg" alt="huggingface" height="30" width="40" />
+   <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="30" width="30" />
 </a>
 <div align="center">
     <a href="https://mohamed-mohamed-ibrahim.github.io/" target="_blank">
