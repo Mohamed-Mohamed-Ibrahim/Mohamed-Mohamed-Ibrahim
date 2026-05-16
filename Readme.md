@@ -8,7 +8,29 @@
 # Projects 🚀
 
 - Recent Projects
+   - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
+   - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
+   - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
+   - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
+   - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
+   - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
+   - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
+   - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
+
+<details>
+  <summary>Older Projects</summary>
+  
+   - [Sudoku-Solver-CSP](https://github.com/Mohamed-Mohamed-Ibrahim/CSP-Sudoko)
+   - [Connect-4-MiniMax](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4-AI)
+   - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
+   - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
+   - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
+   - [Music-Classifier](https://github.com/Mohamed-Mohamed-Ibrahim/Music-Classifier)
+   - [Salary-Dashboard](https://github.com/Mohamed-Mohamed-Ibrahim/Salary-Dashboard)
+   - [Root finder](https://github.com/Mohamed-Mohamed-Ibrahim/Root-Finder)
+   - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
+</details> <br>
 
 
 <details>
@@ -22,7 +44,7 @@
 </details> <br>
 
 <details>
-   <summary>Categorized by Fields</summary>
+   <summary>Categorized by Fields 🗂️</summary>
 
 - Web Development
    - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
