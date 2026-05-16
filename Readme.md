@@ -7,7 +7,17 @@
 
 # Projects 🚀
 
-- [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) — A sequence-to-sequence neural machine translation model trained to translate French text to English.
+- [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) 
+- [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
+- [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
+- [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
+- [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
+- [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
+- [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
+- [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
+- [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph) 
+
+<!-- - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) — A sequence-to-sequence neural machine translation model trained to translate French text to English.
 - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics) — A computer vision system utilizing homography estimation and feature matching for image stitching and AR mapping.
 - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition) — An NLP pipeline designed to detect, extract, and classify unstructured text into predefined entity categories.
 - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System) — A full-stack banking application simulating real-time transaction processing, secure authentication, and account management.
@@ -15,7 +25,7 @@
 - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt) — A web-based interactive canvas platform allowing users to design, manipulate vectors, and render graphic assets.
 - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort) — A dynamic networking path visualization and mapping system engineered for optimized web resource routing.
 - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System) — An IoT-focused web platform that simulates sensor-driven parking allocation and traffic flow optimizations.
-- [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph) — A core software simulator designed to parse equations and map complex algorithmic signal topologies.
+- [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph) — A core software simulator designed to parse equations and map complex algorithmic signal topologies. -->
 
 
 <details>
