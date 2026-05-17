@@ -8,17 +8,17 @@
 # Projects 🚀
 
 - [Wordle-Solver](https://github.com/Mohamed-Mohamed-Ibrahim/Wordle-Solver) - Private 
+- [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU) - Private 
+- [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) - Private 
+- [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1) - Private 
+- [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
+- [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) - Private 
+- [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) 
+- [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
+- [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) - Private 
+- [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) - Private 
 - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot) - Private 
 - [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification) - Private 
-- [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU) - Private 
-- [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1) - Private 
-- [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) - Private 
-- [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) - Private 
-- [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) - Private 
-- [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) - Private 
-- [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) 
-- [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
-- [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
 - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
 - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
 - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
