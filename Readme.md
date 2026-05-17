@@ -19,7 +19,7 @@
 - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) - Private 
 - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot) - Private 
 - [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification) - Private 
-- [Waste-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification) - Private 
+- [Waste-Products-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Waste-Products-Classification) - Private 
 - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
 - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
 - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
