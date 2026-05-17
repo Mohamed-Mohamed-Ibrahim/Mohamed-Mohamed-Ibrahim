@@ -19,6 +19,7 @@
 - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) - Private 
 - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot) - Private 
 - [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification) - Private 
+- [Waste-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification) - Private 
 - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
 - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
 - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
@@ -110,14 +111,11 @@
 
 ### Graphics & Parallel Computing
 <p>
-<a target="_blank" href="https://opengl.org"><img src="https://jsdelivr.net" alt="opengl" width="42" height="42" /></a>
-<a target="_blank" href="https://nvidia.com"><img src="https://jsdelivr.net" alt="cuda" width="42" height="42" /></a>
-<a target="_blank" href="https://mpi-forum.org"><img src="https://jsdelivr.net" alt="mpi" width="42" height="42" /></a>
-<a target="_blank" href="https://openml.org"><img src="https://jsdelivr.net" alt="openml" width="42" height="42" /></a>
+<a target="_blank" href="https://opengl.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="42" height="42" /></a>
+<a target="_blank" href="https://nvidia.com"><img src="./assets/svg/cuda.svg" alt="cuda" width="42" height="42" /></a>
+<a target="_blank" href="https://mpi-forum.org"><img src="./assets/svg/openmpi.svg" alt="mpi" width="42" height="42" /></a>
+<a target="_blank" href="https://openml.org"><img src="./assets/svg/openml.svg" alt="openml" width="42" height="42" /></a>
 </p>
-
-
-
 
 ### AI, Machine Learning & Data Engineering
 <p>
