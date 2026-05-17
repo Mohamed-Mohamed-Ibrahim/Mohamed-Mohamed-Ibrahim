@@ -8,7 +8,7 @@
 # Projects 🚀
 
 - [Wordle-Solver](https://github.com/Mohamed-Mohamed-Ibrahim/Wordle-Solver) - Private 
-- [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU) - Private 
+- [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
 - [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) - Private 
 - [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1) - Private 
 - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
@@ -17,9 +17,9 @@
 - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
 - [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) - Private 
 - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) - Private 
-- [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot) - Private 
-- [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification) - Private 
-- [Waste-Products-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Waste-Products-Classification) - Private 
+- [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot)
+- [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification)
+- [Waste-Products-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Waste-Products-Classification)
 - [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System)
 - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
 - [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt)
@@ -80,10 +80,13 @@
    - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
 
 - Computer Vision
+   - [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification)
+   - [Waste-Products-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Waste-Products-Classification)
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
    - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
 
 - NLP
+   - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot)
    - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
    - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
 
@@ -93,6 +96,9 @@
 - Software Development
    - [Root finder](https://github.com/Mohamed-Mohamed-Ibrahim/Root-Finder)
    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
+
+- Parallel Computing
+   - [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
 
 - Networks
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
