@@ -7,6 +7,9 @@
 
 # Projects 🚀
 
+- [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot) 
+- [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification) 
+- [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU) 
 - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) 
 - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
 - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
@@ -16,17 +19,9 @@
 - [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort)
 - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
 - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph) 
+<!-- - []()  -->
 
-<!-- - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) — A sequence-to-sequence neural machine translation model trained to translate French text to English.
-- [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics) — A computer vision system utilizing homography estimation and feature matching for image stitching and AR mapping.
-- [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition) — An NLP pipeline designed to detect, extract, and classify unstructured text into predefined entity categories.
-- [Virtual-Bank-System](https://github.com/Mohamed-Mohamed-Ibrahim/Virtual-Bank-System) — A full-stack banking application simulating real-time transaction processing, secure authentication, and account management.
-- [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor) — A data engineering dashboard that ingests, caches, and visualizes live regional weather streams from global APIs.
-- [PaintIt](https://github.com/Mohamed-Mohamed-Ibrahim/PaintIt) — A web-based interactive canvas platform allowing users to design, manipulate vectors, and render graphic assets.
-- [PathPort](https://github.com/Mohamed-Mohamed-Ibrahim/PathPort) — A dynamic networking path visualization and mapping system engineered for optimized web resource routing.
-- [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System) — An IoT-focused web platform that simulates sensor-driven parking allocation and traffic flow optimizations.
-- [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph) — A core software simulator designed to parse equations and map complex algorithmic signal topologies. -->
-
+<br>
 
 <details>
   <summary><b>Older Projects 🏛️</b></summary> <br>
@@ -95,7 +90,7 @@
 - Networks
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
 
-</details>  
+</details>  <br>
 
 # Languages and Tools I Use 🛠️
 ### Core Languages
@@ -106,6 +101,17 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 </p>
+
+### Graphics & Parallel Computing
+<p>
+<a target="_blank" href="https://opengl.org"><img src="https://jsdelivr.net" alt="opengl" width="42" height="42" /></a>
+<a target="_blank" href="https://nvidia.com"><img src="https://jsdelivr.net" alt="cuda" width="42" height="42" /></a>
+<a target="_blank" href="https://mpi-forum.org"><img src="https://jsdelivr.net" alt="mpi" width="42" height="42" /></a>
+<a target="_blank" href="https://openml.org"><img src="https://jsdelivr.net" alt="openml" width="42" height="42" /></a>
+</p>
+
+
+
 
 ### AI, Machine Learning & Data Engineering
 <p>
