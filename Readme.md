@@ -90,8 +90,9 @@
    - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
    - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
 
-- Data Engineering
+- Data Engineering / Distributed Systems
    - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
+   - [Dynamic-Graph-Shortest-Path](https://github.com/Mohamed-Mohamed-Ibrahim/Dynamic-Graph-Shortest-Path)
 
 - Software Development
    - [Root finder](https://github.com/Mohamed-Mohamed-Ibrahim/Root-Finder)
