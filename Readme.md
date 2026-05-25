@@ -100,6 +100,8 @@
 
 - Parallel Computing
    - [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
+   <!--- [Parallel-Merge-Sort](https://github.com/Mohamed-Mohamed-Ibrahim/Parallel-Merge-Sort) -->
+   <!--- [Efficiency-Plots](https://github.com/Mohamed-Mohamed-Ibrahim/Efficiency-Plots) -->
 
 - Networks
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
