@@ -7,7 +7,7 @@
 
 # Projects 🚀
 
-- [Wordle-Solver](https://github.com/Mohamed-Mohamed-Ibrahim/Wordle-Solver) - Private 
+
 - [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
 - [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) - Private 
 - [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1) - Private 
@@ -105,6 +105,9 @@
 
 - Networks
    - [Socket-Programming](https://github.com/Mohamed-Mohamed-Ibrahim/Socket-Programming)
+
+- Information Theory
+   <!--- - [Wordle-Solver](https://github.com/Mohamed-Mohamed-Ibrahim/Wordle-Solver) -->
 
 </details>  <br>
 
