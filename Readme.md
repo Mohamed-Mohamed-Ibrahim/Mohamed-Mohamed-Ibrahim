@@ -8,15 +8,15 @@
 # Projects 🚀
 
 
+<!-- - [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) -->
+<!-- - [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1)  -->
+<!-- - [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) -->
+<!-- - [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) -->
+<!-- - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) -->
 - [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
-- [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) - Private 
-- [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1) - Private 
 - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
-- [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) - Private 
 - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) 
 - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
-- [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) - Private 
-- [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) - Private 
 - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot)
 - [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification)
 - [Waste-Products-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Waste-Products-Classification)
@@ -80,21 +80,26 @@
    - [8-Puzzle-Search-AI](https://github.com/Mohamed-Mohamed-Ibrahim/8-Puzzle-AI)
 
 - Computer Vision
+   <!-- - [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) -->
+   <!-- - [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1)  -->
    - [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification)
    - [Waste-Products-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Waste-Products-Classification)
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
    - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
 
 - NLP
-   - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot)
+   <!-- - [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) -->
    - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
    - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
+   <!-- - [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) -->
+   - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot)
 
 - Data Engineering / Distributed Systems
    - [Weather-Stations-Monitor](https://github.com/Mohamed-Mohamed-Ibrahim/Weather-Stations-Monitor)
    - [Dynamic-Graph-Shortest-Path](https://github.com/Mohamed-Mohamed-Ibrahim/Dynamic-Graph-Shortest-Path)
 
 - Software Development
+   <!-- - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) -->
    - [Root finder](https://github.com/Mohamed-Mohamed-Ibrahim/Root-Finder)
    - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
 
