@@ -69,6 +69,7 @@
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
 
 - AI & Data Science
+   - [EASLT-Next](https://github.com/Mohamed-Mohamed-Ibrahim/EASLT-Next)
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
    - [Speech-Emotion-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Speech-Emotion-Recognition)
    - [Face-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Face-Recognition)
