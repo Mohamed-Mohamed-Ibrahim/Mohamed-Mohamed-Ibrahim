@@ -10,12 +10,14 @@
 
 <!-- - [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) -->
 <!-- - [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1)  -->
-<!-- - [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) -->
 <!-- - [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) -->
 <!-- - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) -->
 - [Adaptive-EASLT](https://github.com/Mohamed-Mohamed-Ibrahim/Adaptive-EASLT)
+- [Brain-Tumor-Segmentation-BRISC-2025](https://github.com/Mohamed-Mohamed-Ibrahim/Brain-Tumor-Segmentation-BRISC-2025)
+- [Adaptive-EASLT](https://github.com/Mohamed-Mohamed-Ibrahim/Adaptive-EASLT)
 - [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
 - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
+- [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding)
 - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) 
 - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
 - [PDF-Q&A-Bot](https://github.com/Mohamed-Mohamed-Ibrahim/PDF-QA-Bot)
@@ -84,13 +86,14 @@
 - Computer Vision
    <!-- - [Depth-Estimation](https://github.com/mohassan5286/CV-Lab-3) -->
    <!-- - [Cartoonifying-and-Lane-Road-Detector](https://github.com/Mohamed-Mohamed-Ibrahim/CV-lab-1)  -->
+   - [Brain-Tumor-Segmentation-BRISC-2025](https://github.com/Mohamed-Mohamed-Ibrahim/Brain-Tumor-Segmentation-BRISC-2025)
    - [Agricultural-Land-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Agricultural-Land-Classification)
    - [Waste-Products-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Waste-Products-Classification)
    - [Object-Detection-Models-Comparison](https://github.com/Mohamed-Mohamed-Ibrahim/Object-Detection-Models-Comparison)
    - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
 
 - NLP
-   <!-- - [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) -->
+   - [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding)
    - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT)
    - [Named-Entity-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Named-Entity-Recognition)
    <!-- - [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) -->
