@@ -13,7 +13,7 @@
 <!-- - [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding) -->
 <!-- - [N-Gram-Language-Model-and-Text-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/NLP-lab-1) -->
 <!-- - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) -->
-- [EASLT-Next](https://github.com/Mohamed-Mohamed-Ibrahim/EASLT-Next)
+- [Adaptive-EASLT](https://github.com/Mohamed-Mohamed-Ibrahim/Adaptive-EASLT)
 - [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
 - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
 - [French-to-English-NMT](https://github.com/Mohamed-Mohamed-Ibrahim/French-to-English-NMT) 
