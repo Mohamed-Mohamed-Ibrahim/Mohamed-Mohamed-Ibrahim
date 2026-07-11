@@ -14,7 +14,6 @@
 <!-- - [Compiler](https://github.com/Mohamed-Mohamed-Ibrahim/Compiler) -->
 - [Adaptive-EASLT](https://github.com/Mohamed-Mohamed-Ibrahim/Adaptive-EASLT)
 - [Brain-Tumor-Segmentation-BRISC-2025](https://github.com/Mohamed-Mohamed-Ibrahim/Brain-Tumor-Segmentation-BRISC-2025)
-- [Adaptive-EASLT](https://github.com/Mohamed-Mohamed-Ibrahim/Adaptive-EASLT)
 - [CUDA-Matrix-Multiplication-CPU-vs-GPU](https://github.com/Mohamed-Mohamed-Ibrahim/CUDA-Matrix-Multiplication-CPU-vs-GPU)
 - [Augmented-Reality-and-Image-Mosaics](https://github.com/Mohamed-Mohamed-Ibrahim/Augmented-Reality-and-Image-Mosaics)
 - [Code-Generation-and-Guarding](https://github.com/Mohamed-Mohamed-Ibrahim/Code-Generation-and-Guarding)
@@ -71,7 +70,7 @@
    - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
 
 - AI & Data Science
-   - [EASLT-Next](https://github.com/Mohamed-Mohamed-Ibrahim/EASLT-Next)
+   - [Adaptive-EASLT](https://github.com/Mohamed-Mohamed-Ibrahim/Adaptive-EASLT)
    - [Environmental-Sound-Classification](https://github.com/Mohamed-Mohamed-Ibrahim/Environmental-Sound-Classification)
    - [Speech-Emotion-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Speech-Emotion-Recognition)
    - [Face-Recognition](https://github.com/Mohamed-Mohamed-Ibrahim/Face-Recognition)
